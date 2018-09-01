@@ -1,0 +1,35 @@
+#Internal package file, do not edit.
+#Mon Aug 27 14:41:19 MSK 2018
+7.path=lib/x86/libYandexSpeechKitJni.3.12.2.so
+2.base=C\:\\Users\\Erbakhaev.LANIT\\AndroidStudioProjects\\button\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+5.set=ASSET
+0.path=sounds/finish.ogg
+2.baseType=DIRECTORY
+3.base=C\:\\Users\\Erbakhaev.LANIT\\AndroidStudioProjects\\button\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\32
+7.baseType=DIRECTORY
+2.set=NATIVE_RESOURCE
+1.path=sounds/wait.ogg
+4.base=C\:\\Users\\Erbakhaev.LANIT\\AndroidStudioProjects\\button\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+7.set=NATIVE_RESOURCE
+count=8
+5.baseType=DIRECTORY
+2.path=lib/armeabi/libYandexSpeechKitJni.3.12.2.so
+5.base=C\:\\Users\\Erbakhaev.LANIT\\AndroidStudioProjects\\button\\app\\build\\intermediates\\assets\\debug
+4.set=NATIVE_RESOURCE
+3.path=classes.dex
+6.base=C\:\\Users\\Erbakhaev.LANIT\\AndroidStudioProjects\\button\\app\\build\\intermediates\\assets\\debug
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=lib/armeabi-v7a/libYandexSpeechKitJni.3.12.2.so
+7.base=C\:\\Users\\Erbakhaev.LANIT\\AndroidStudioProjects\\button\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+6.set=ASSET
+1.baseType=DIRECTORY
+6.baseType=DIRECTORY
+5.path=sounds/start.ogg
+0.base=C\:\\Users\\Erbakhaev.LANIT\\AndroidStudioProjects\\button\\app\\build\\intermediates\\assets\\debug
+0.baseType=DIRECTORY
+3.set=DEX
+6.path=sounds/cancel.ogg
+1.base=C\:\\Users\\Erbakhaev.LANIT\\AndroidStudioProjects\\button\\app\\build\\intermediates\\assets\\debug
+4.baseType=DIRECTORY
+0.set=ASSET

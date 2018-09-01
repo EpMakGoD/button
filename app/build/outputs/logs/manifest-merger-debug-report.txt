@@ -1,0 +1,219 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Erbakhaev.LANIT\AndroidStudioProjects\button\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Erbakhaev.LANIT\AndroidStudioProjects\button\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Erbakhaev.LANIT\AndroidStudioProjects\button\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Erbakhaev.LANIT\AndroidStudioProjects\button\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc01.aar\d992daf73b46fd28e14908d7ca68e6e0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\5bb9c4b94690c774d6ea20dc96bf3f89\AndroidManifest.xml:2:1-11:12
+MERGED from [com.yandex.android:speechkit:3.12.2] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\speechkit-3.12.2.aar\aea50a612e4f519f23ff1d783be0847d\AndroidManifest.xml:2:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc01.aar\533c977d097b6331e71714dd3c1ff511\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc01.aar\9972102069a7cf7a90d77644a67e4f79\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\811dd1b17c1e9b8cb74b755ee16fedb0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\fd5ad78b5eb319c298cb68c4e8c8beb2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc01.aar\8a38874477e2adac37703cc5d03f45f0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc01.aar\9b3fb91fd186f6e143836f649b757cda\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc01.aar\01280d4fe6168192c97544566353abc4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc01.aar\e6eaff804c4cffa6513abf0b1bd1fab3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc01.aar\5ed2317ad434ce3938e940a7569373d4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc01.aar\932111f479a16cddcc601d28dae9b9bd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc01.aar\9bc8f4c9d4fe609ca5b0e02c59277aa2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc01.aar\31d8d398941ed3c67858a6b3087b427a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc01.aar\612cf3013dfd145428ea612d1059275c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc01.aar\9c34109d71b847ba906f878f657a11c9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc01.aar\e96cc5ec18fe6abecd7c4d7721d9bd6e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\a236ffb50dbee76d0e77cc38f7d6d33e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc01.aar\e136a696c000d6456a8d346f4f002c44\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc01.aar\73d47834330f0d8abaf254e198a9ca14\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d914460e67c393e97949f3e159d13aee\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\206a28ebd6bcfe12a80fc746845d37a5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\00a4dbc7754b0bd0529a01247ff331af\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc01.aar\e168134212fe452bfa10d9491a5f037d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc01.aar\fb9c22591fc9f28bac7331e4183c1553\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc01.aar\01088520dfaa76fede508efa021a5ada\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\8b21778cf79a15117ebf8439d19fe8c3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc01.aar\477f72a0aaf4b4b3e4a8c612aecb7ce2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.3] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\relinker-1.2.3.aar\e8526df4c975110c5076080910d78977\AndroidManifest.xml:2:1-7:12
+INJECTED from C:\Users\Erbakhaev.LANIT\AndroidStudioProjects\button\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Erbakhaev.LANIT\AndroidStudioProjects\button\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Erbakhaev.LANIT\AndroidStudioProjects\button\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\Erbakhaev.LANIT\AndroidStudioProjects\button\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\Erbakhaev.LANIT\AndroidStudioProjects\button\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Erbakhaev.LANIT\AndroidStudioProjects\button\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Erbakhaev.LANIT\AndroidStudioProjects\button\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Erbakhaev.LANIT\AndroidStudioProjects\button\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Erbakhaev.LANIT\AndroidStudioProjects\button\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Erbakhaev.LANIT\AndroidStudioProjects\button\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Erbakhaev.LANIT\AndroidStudioProjects\button\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Erbakhaev.LANIT\AndroidStudioProjects\button\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Erbakhaev.LANIT\AndroidStudioProjects\button\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Erbakhaev.LANIT\AndroidStudioProjects\button\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\5bb9c4b94690c774d6ea20dc96bf3f89\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\5bb9c4b94690c774d6ea20dc96bf3f89\AndroidManifest.xml:9:5-20
+MERGED from [com.yandex.android:speechkit:3.12.2] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\speechkit-3.12.2.aar\aea50a612e4f519f23ff1d783be0847d\AndroidManifest.xml:17:5-29:19
+MERGED from [com.yandex.android:speechkit:3.12.2] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\speechkit-3.12.2.aar\aea50a612e4f519f23ff1d783be0847d\AndroidManifest.xml:17:5-29:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\811dd1b17c1e9b8cb74b755ee16fedb0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\811dd1b17c1e9b8cb74b755ee16fedb0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\fd5ad78b5eb319c298cb68c4e8c8beb2\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\fd5ad78b5eb319c298cb68c4e8c8beb2\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\a236ffb50dbee76d0e77cc38f7d6d33e\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\a236ffb50dbee76d0e77cc38f7d6d33e\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc01.aar\e136a696c000d6456a8d346f4f002c44\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc01.aar\e136a696c000d6456a8d346f4f002c44\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\a236ffb50dbee76d0e77cc38f7d6d33e\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Erbakhaev.LANIT\AndroidStudioProjects\button\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Erbakhaev.LANIT\AndroidStudioProjects\button\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Erbakhaev.LANIT\AndroidStudioProjects\button\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Erbakhaev.LANIT\AndroidStudioProjects\button\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Erbakhaev.LANIT\AndroidStudioProjects\button\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Erbakhaev.LANIT\AndroidStudioProjects\button\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.erbakhaev.button.MainActivity
+ADDED from C:\Users\Erbakhaev.LANIT\AndroidStudioProjects\button\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Erbakhaev.LANIT\AndroidStudioProjects\button\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Erbakhaev.LANIT\AndroidStudioProjects\button\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Erbakhaev.LANIT\AndroidStudioProjects\button\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Erbakhaev.LANIT\AndroidStudioProjects\button\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Erbakhaev.LANIT\AndroidStudioProjects\button\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Erbakhaev.LANIT\AndroidStudioProjects\button\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\Erbakhaev.LANIT\AndroidStudioProjects\button\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Erbakhaev.LANIT\AndroidStudioProjects\button\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Erbakhaev.LANIT\AndroidStudioProjects\button\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc01.aar\d992daf73b46fd28e14908d7ca68e6e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc01.aar\d992daf73b46fd28e14908d7ca68e6e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\5bb9c4b94690c774d6ea20dc96bf3f89\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\5bb9c4b94690c774d6ea20dc96bf3f89\AndroidManifest.xml:5:5-7:41
+MERGED from [com.yandex.android:speechkit:3.12.2] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\speechkit-3.12.2.aar\aea50a612e4f519f23ff1d783be0847d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.yandex.android:speechkit:3.12.2] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\speechkit-3.12.2.aar\aea50a612e4f519f23ff1d783be0847d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc01.aar\533c977d097b6331e71714dd3c1ff511\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc01.aar\533c977d097b6331e71714dd3c1ff511\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc01.aar\9972102069a7cf7a90d77644a67e4f79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc01.aar\9972102069a7cf7a90d77644a67e4f79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\811dd1b17c1e9b8cb74b755ee16fedb0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\811dd1b17c1e9b8cb74b755ee16fedb0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\fd5ad78b5eb319c298cb68c4e8c8beb2\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\fd5ad78b5eb319c298cb68c4e8c8beb2\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc01.aar\8a38874477e2adac37703cc5d03f45f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc01.aar\8a38874477e2adac37703cc5d03f45f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc01.aar\9b3fb91fd186f6e143836f649b757cda\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc01.aar\9b3fb91fd186f6e143836f649b757cda\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc01.aar\01280d4fe6168192c97544566353abc4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc01.aar\01280d4fe6168192c97544566353abc4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc01.aar\e6eaff804c4cffa6513abf0b1bd1fab3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc01.aar\e6eaff804c4cffa6513abf0b1bd1fab3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc01.aar\5ed2317ad434ce3938e940a7569373d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc01.aar\5ed2317ad434ce3938e940a7569373d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc01.aar\932111f479a16cddcc601d28dae9b9bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc01.aar\932111f479a16cddcc601d28dae9b9bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc01.aar\9bc8f4c9d4fe609ca5b0e02c59277aa2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc01.aar\9bc8f4c9d4fe609ca5b0e02c59277aa2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc01.aar\31d8d398941ed3c67858a6b3087b427a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc01.aar\31d8d398941ed3c67858a6b3087b427a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc01.aar\612cf3013dfd145428ea612d1059275c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc01.aar\612cf3013dfd145428ea612d1059275c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc01.aar\9c34109d71b847ba906f878f657a11c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc01.aar\9c34109d71b847ba906f878f657a11c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc01.aar\e96cc5ec18fe6abecd7c4d7721d9bd6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc01.aar\e96cc5ec18fe6abecd7c4d7721d9bd6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\a236ffb50dbee76d0e77cc38f7d6d33e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\a236ffb50dbee76d0e77cc38f7d6d33e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc01.aar\e136a696c000d6456a8d346f4f002c44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc01.aar\e136a696c000d6456a8d346f4f002c44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc01.aar\73d47834330f0d8abaf254e198a9ca14\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc01.aar\73d47834330f0d8abaf254e198a9ca14\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d914460e67c393e97949f3e159d13aee\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d914460e67c393e97949f3e159d13aee\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\206a28ebd6bcfe12a80fc746845d37a5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\206a28ebd6bcfe12a80fc746845d37a5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\00a4dbc7754b0bd0529a01247ff331af\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\00a4dbc7754b0bd0529a01247ff331af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc01.aar\e168134212fe452bfa10d9491a5f037d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc01.aar\e168134212fe452bfa10d9491a5f037d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc01.aar\fb9c22591fc9f28bac7331e4183c1553\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc01.aar\fb9c22591fc9f28bac7331e4183c1553\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc01.aar\01088520dfaa76fede508efa021a5ada\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc01.aar\01088520dfaa76fede508efa021a5ada\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\8b21778cf79a15117ebf8439d19fe8c3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\8b21778cf79a15117ebf8439d19fe8c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc01.aar\477f72a0aaf4b4b3e4a8c612aecb7ce2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc01] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc01.aar\477f72a0aaf4b4b3e4a8c612aecb7ce2\AndroidManifest.xml:20:5-44
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.3] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\relinker-1.2.3.aar\e8526df4c975110c5076080910d78977\AndroidManifest.xml:5:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.3] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\relinker-1.2.3.aar\e8526df4c975110c5076080910d78977\AndroidManifest.xml:5:5-43
+INJECTED from C:\Users\Erbakhaev.LANIT\AndroidStudioProjects\button\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Erbakhaev.LANIT\AndroidStudioProjects\button\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\811dd1b17c1e9b8cb74b755ee16fedb0\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\Users\Erbakhaev.LANIT\AndroidStudioProjects\button\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Erbakhaev.LANIT\AndroidStudioProjects\button\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Erbakhaev.LANIT\AndroidStudioProjects\button\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Erbakhaev.LANIT\AndroidStudioProjects\button\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Erbakhaev.LANIT\AndroidStudioProjects\button\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Erbakhaev.LANIT\AndroidStudioProjects\button\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [com.yandex.android:speechkit:3.12.2] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\speechkit-3.12.2.aar\aea50a612e4f519f23ff1d783be0847d\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from [com.yandex.android:speechkit:3.12.2] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\speechkit-3.12.2.aar\aea50a612e4f519f23ff1d783be0847d\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.yandex.android:speechkit:3.12.2] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\speechkit-3.12.2.aar\aea50a612e4f519f23ff1d783be0847d\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [com.yandex.android:speechkit:3.12.2] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\speechkit-3.12.2.aar\aea50a612e4f519f23ff1d783be0847d\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.yandex.android:speechkit:3.12.2] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\speechkit-3.12.2.aar\aea50a612e4f519f23ff1d783be0847d\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from [com.yandex.android:speechkit:3.12.2] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\speechkit-3.12.2.aar\aea50a612e4f519f23ff1d783be0847d\AndroidManifest.xml:13:22-73
+uses-permission#android.permission.INTERNET
+ADDED from [com.yandex.android:speechkit:3.12.2] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\speechkit-3.12.2.aar\aea50a612e4f519f23ff1d783be0847d\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from [com.yandex.android:speechkit:3.12.2] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\speechkit-3.12.2.aar\aea50a612e4f519f23ff1d783be0847d\AndroidManifest.xml:14:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [com.yandex.android:speechkit:3.12.2] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\speechkit-3.12.2.aar\aea50a612e4f519f23ff1d783be0847d\AndroidManifest.xml:15:5-71
+	android:name
+		ADDED from [com.yandex.android:speechkit:3.12.2] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\speechkit-3.12.2.aar\aea50a612e4f519f23ff1d783be0847d\AndroidManifest.xml:15:22-68
+activity#ru.yandex.speechkit.gui.RecognizerActivity
+ADDED from [com.yandex.android:speechkit:3.12.2] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\speechkit-3.12.2.aar\aea50a612e4f519f23ff1d783be0847d\AndroidManifest.xml:18:9-28:20
+	android:launchMode
+		ADDED from [com.yandex.android:speechkit:3.12.2] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\speechkit-3.12.2.aar\aea50a612e4f519f23ff1d783be0847d\AndroidManifest.xml:21:13-43
+	android:configChanges
+		ADDED from [com.yandex.android:speechkit:3.12.2] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\speechkit-3.12.2.aar\aea50a612e4f519f23ff1d783be0847d\AndroidManifest.xml:20:13-74
+	android:theme
+		ADDED from [com.yandex.android:speechkit:3.12.2] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\speechkit-3.12.2.aar\aea50a612e4f519f23ff1d783be0847d\AndroidManifest.xml:22:13-63
+	android:name
+		ADDED from [com.yandex.android:speechkit:3.12.2] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\speechkit-3.12.2.aar\aea50a612e4f519f23ff1d783be0847d\AndroidManifest.xml:19:13-70
+intent-filter#action:name:ru.yandex.speechkit.action.voice_recognition+category:name:android.intent.category.DEFAULT
+ADDED from [com.yandex.android:speechkit:3.12.2] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\speechkit-3.12.2.aar\aea50a612e4f519f23ff1d783be0847d\AndroidManifest.xml:23:13-27:29
+action#ru.yandex.speechkit.action.voice_recognition
+ADDED from [com.yandex.android:speechkit:3.12.2] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\speechkit-3.12.2.aar\aea50a612e4f519f23ff1d783be0847d\AndroidManifest.xml:24:17-87
+	android:name
+		ADDED from [com.yandex.android:speechkit:3.12.2] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\speechkit-3.12.2.aar\aea50a612e4f519f23ff1d783be0847d\AndroidManifest.xml:24:25-84
+category#android.intent.category.DEFAULT
+ADDED from [com.yandex.android:speechkit:3.12.2] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\speechkit-3.12.2.aar\aea50a612e4f519f23ff1d783be0847d\AndroidManifest.xml:26:17-76
+	android:name
+		ADDED from [com.yandex.android:speechkit:3.12.2] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\speechkit-3.12.2.aar\aea50a612e4f519f23ff1d783be0847d\AndroidManifest.xml:26:27-73
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\811dd1b17c1e9b8cb74b755ee16fedb0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\fd5ad78b5eb319c298cb68c4e8c8beb2\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\fd5ad78b5eb319c298cb68c4e8c8beb2\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\811dd1b17c1e9b8cb74b755ee16fedb0\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Erbakhaev.LANIT\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\811dd1b17c1e9b8cb74b755ee16fedb0\AndroidManifest.xml:26:9-47
